@@ -1,0 +1,10 @@
+{
+    "token": "BOT_TOKEN",
+    "prefix": "BOT_PREFIX",
+    "ownerID": "YOUR_ID",
+    "footertext": "Discord MiniGames",
+    "colors": {
+        "yes": "GREEN",
+        "no": "RED"
+    }
+}
